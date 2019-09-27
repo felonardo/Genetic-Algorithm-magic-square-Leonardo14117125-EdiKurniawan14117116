@@ -1,0 +1,132 @@
+Square size: 4
+Population size: 200
+Elite size: 180
+Elite death period: 0
+Minimum point (crossover): 8
+Maximum point (crossover): 14
+Mutation chance: 50%
+Show generation details: no
+Allow identical individuals: no
+---
+
+Magic square #1 found in 00:00:04
+16	1	14	3
+9	6	11	8
+4	15	2	13
+5	12	7	10
+
+Generation number: 1361
+1st parent: [16, 4, 7, 8, 11, 5, 15, 3, 6, 12, 2, 14, 1, 13, 9, 10]
+2nd parent: [16, 1, 14, 3, 9, 6, 10, 8, 4, 15, 2, 13, 5, 12, 7, 11]
+Crossover point: 13
+Mutated? yes, on [15, 6]
+
+Magic square #2 found in 00:00:04
+14	1	16	3
+9	8	11	6
+4	13	2	15
+7	12	5	10
+
+Generation number: 1593
+1st parent: [14, 1, 16, 3, 9, 8, 11, 6, 4, 15, 2, 13, 7, 12, 5, 10]
+2nd parent: [15, 1, 14, 3, 9, 8, 11, 6, 4, 13, 2, 16, 7, 12, 5, 10]
+Crossover point: 12
+Mutated? no
+
+Magic square #3 found in 00:00:05
+16	2	9	7
+11	5	14	4
+6	12	3	13
+1	15	8	10
+
+Generation number: 2037
+1st parent: [14, 7, 9, 4, 2, 8, 10, 12, 3, 6, 11, 16, 15, 13, 5, 1]
+2nd parent: [16, 2, 10, 7, 11, 5, 14, 4, 6, 12, 3, 13, 1, 15, 8, 9]
+Crossover point: 13
+Mutated? yes, on [2, 15]
+
+Magic square #4 found in 00:00:06
+1	14	4	15
+7	12	6	9
+16	3	13	2
+10	5	11	8
+
+Generation number: 2486
+1st parent: [1, 15, 4, 14, 7, 11, 6, 9, 16, 3, 13, 2, 10, 5, 12, 8]
+2nd parent: [14, 9, 8, 3, 2, 7, 10, 15, 4, 6, 11, 13, 16, 12, 5, 1]
+Crossover point: 12
+Mutated? yes, on [5, 14]
+
+Magic square #5 found in 00:00:07
+14	9	8	3
+1	7	10	16
+4	6	11	13
+15	12	5	2
+
+Generation number: 3065
+1st parent: [14, 9, 8, 3, 2, 7, 10, 16, 4, 6, 11, 13, 15, 12, 5, 1]
+2nd parent: [15, 1, 14, 3, 9, 8, 11, 6, 4, 12, 2, 16, 5, 10, 7, 13]
+Crossover point: 14
+Mutated? yes, on [15, 4]
+
+Magic square #6 found in 00:00:08
+13	7	10	4
+2	9	8	15
+3	6	11	14
+16	12	5	1
+
+Generation number: 3200
+1st parent: [14, 1, 16, 3, 9, 8, 12, 5, 4, 13, 2, 15, 7, 11, 6, 10]
+2nd parent: [13, 7, 8, 4, 2, 9, 10, 15, 3, 6, 11, 14, 16, 12, 5, 1]
+Crossover point: 14
+Mutated? yes, on [6, 2]
+
+Magic square #7 found in 00:00:08
+13	1	16	4
+12	8	9	5
+3	15	2	14
+6	10	7	11
+
+Generation number: 3242
+1st parent: [16, 3, 8, 7, 11, 5, 14, 4, 6, 12, 2, 15, 1, 13, 10, 9]
+2nd parent: [13, 1, 16, 4, 12, 8, 9, 6, 3, 15, 2, 14, 5, 10, 7, 11]
+Crossover point: 14
+Mutated? yes, on [7, 12]
+
+Magic square #8 found in 00:00:09
+1	15	8	10
+6	12	3	13
+11	5	14	4
+16	2	9	7
+
+Generation number: 3534
+1st parent: [1, 15, 8, 10, 7, 12, 3, 13, 11, 5, 14, 4, 16, 2, 9, 6]
+2nd parent: [1, 14, 5, 15, 7, 12, 6, 9, 16, 3, 13, 2, 10, 4, 11, 8]
+Crossover point: 14
+Mutated? yes, on [4, 15]
+
+Magic square #9 found in 00:00:10
+15	2	12	5
+9	8	14	3
+6	11	1	16
+4	13	7	10
+
+Generation number: 3952
+1st parent: [15, 2, 11, 5, 9, 8, 14, 3, 6, 12, 1, 16, 4, 13, 7, 10]
+2nd parent: [15, 1, 12, 5, 9, 8, 14, 3, 6, 11, 2, 16, 4, 13, 7, 10]
+Crossover point: 8
+Mutated? no
+
+Magic square #10 found in 00:00:10
+14	1	15	4
+12	7	9	6
+3	16	2	13
+5	10	8	11
+
+Generation number: 4231
+1st parent: [14, 1, 15, 4, 12, 8, 9, 6, 3, 16, 2, 13, 5, 10, 7, 11]
+2nd parent: [1, 15, 5, 14, 7, 13, 6, 8, 16, 4, 12, 3, 10, 2, 11, 9]
+Crossover point: 14
+Mutated? yes, on [14, 5]
+
+Search is complete.
